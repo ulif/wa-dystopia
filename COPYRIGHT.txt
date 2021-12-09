@@ -5,3 +5,4 @@ Parts with different copyright / license:
 
 assets/mind-the-gap.mp3: (c) GeoTrinity, CC-BY-SA 3.0 unported - https://de.wikipedia.org/wiki/Datei:GT_Mind_the_gap_London_Underground_mock_version.ogg
 assets/01-pipoya-base.png: (c) pipoya, free for use under certain conditions, see https://pipoya.itch.io/pipoya-free-rpg-world-tileset-32x32-40x40-48x48
+assets/02-ulif-dystopia.png: (c) ulif <uli@gnufix.de>, CC0
